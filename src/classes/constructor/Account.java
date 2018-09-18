@@ -1,4 +1,4 @@
-package constructor;
+package classes.constructor;
 
 public class Account {
 
@@ -42,6 +42,5 @@ public class Account {
     public String toString() {
         return String.format("A/C no:%d, Balance=%.2f", accountNumber, balance);
     }
-    
-    
+
 }

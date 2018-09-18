@@ -1,4 +1,4 @@
-package time;
+package classes.time;
 
 public class Time {
 

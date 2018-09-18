@@ -1,4 +1,4 @@
-package keywordthis;
+package classes.keywordthis;
 
 public class Aaa<T> {
 

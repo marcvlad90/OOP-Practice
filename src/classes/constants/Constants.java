@@ -1,6 +1,6 @@
-package constants;
-
+package classes.constants;
 
 public class Constants {
-private final int MAX_ID=9999;
+
+    private final int MAX_ID = 9999;
 }

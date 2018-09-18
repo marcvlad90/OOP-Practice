@@ -1,4 +1,4 @@
-package date;
+package classes.date;
 
 public class Date {
 
